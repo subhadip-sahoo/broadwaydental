@@ -1,0 +1,102 @@
+@media only screen and (max-width : 1200px) {
+}
+
+@media only screen and (max-width : 979px) {
+	
+	
+}
+
+@media only screen and (max-width : 768px) {
+		.logo img{ display: block;
+    margin-left: auto;
+    margin-right: auto;}
+.allon{ display:none;}
+.header_serach .search-query{ width:100%;}	
+.header_cont{ text-align:center;}
+.main_nav .menu{ padding-left:15px;}
+.main_slider .carousel-inner > .item > img{    max-width: 100%;}
+.section_two .left_section{ padding: 15px;}
+.pull-right{ float:none !important;}
+.section_two .tranform{ width:auto;}
+.section_two .book_apoint{ width:auto;}
+.footer_middle{ display:none;}
+.footer_left{ padding:15px; height:auto; margin-bottom: 20px;}
+.footer_right{    float: left;
+    height: auto;
+    padding: 15px;
+    width: 100%; clear:both;}
+	
+.last_footer p{ text-align:center}
+.section_one .left_arrow {
+  left: -5px;
+    top: 100px;
+}
+.section_one .right_arrow {
+   right: 20px;
+    top: 100px;
+}	
+.carousel_itmes img {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.our_exper_nav li{  max-width:none;}	
+.footer_middle{ display:none}
+.main_nav .menu{ padding:15px;}
+.caption img{ margin-bottom:5px;}
+div.inn_pag_min_ban{  background-image: none !important;
+    height: auto;}
+div.inn_pag_min_ban img{height: auto;
+    width: 100%;  display: block !important;}	
+	#invis_box {
+    display: block;
+    margin-bottom: 30px;
+    position: relative !important;
+    width: auto;
+}
+.block-thumbnail .caption h3,.blog-text{ height:auto}
+.header_serach .btn-danger{ display:none;}
+.inn_pag_min_ban .btn-button{ display:none;}
+	}
+
+@media only screen and (max-width : 480px) {	.logo img{ display: block;
+    margin-left: auto;
+    margin-right: auto;}
+.allon{ display:none;}
+.header_serach .search-query{ width:100%;}	
+.header_cont{ text-align:center;}
+.main_nav .menu{ padding-left:15px;}
+.main_slider .carousel-inner > .item > img{    max-width: 100%;}
+.section_two .left_section{ padding: 15px;}
+.pull-right{ float:none !important;}
+
+.section_two .tranform{ width:auto;}
+.section_two .book_apoint{ width:auto;}
+.footer_middle{ display:none;}
+.footer_left{ padding:15px; height:auto; margin-bottom: 20px;}
+.footer_right{ clear:both;  float: left;
+    height: auto;
+    padding: 15px;
+    width: 100%;}
+	
+.last_footer p{ text-align:center}
+.section_one .left_arrow {
+  left: -5px;
+    top: 100px;
+}
+.section_one .right_arrow {
+   right: 20px;
+    top: 100px;
+}	
+.carousel_itmes img {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.our_exper_nav li{  max-width:none;}	
+.header_cont h2{ text-align:center !important }
+.caption img{ margin-bottom:5px;}
+}
+
+@media only screen and (max-width : 320px) {
+}
